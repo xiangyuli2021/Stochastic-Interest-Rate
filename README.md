@@ -2,8 +2,8 @@
 
 Valuing Interest Rate Derivatives under Stochastic Interest Rate Model
 
-•	Used Monte Carlo simulation (Euler-scheme) and derived analytical formula to estimate the term structure of interest rates under a two-factor Vasicek Model
+•	Derived analytical formula to estimate the term structure of interest rates under a two-factor Vasicek Model and compared the result with the Euler-scheme Monte Carlo simulation method implemented via Python
 
-•	Compared the valuation of a bond option using analytical solution, Monte Carlo simulation under the risk-neutral measure and the forward measure
+•	Estimated the price of a bond option for a collection of strike price using Monte Carlo simulations and analytical expression under both the risk-neutral and forward-neutral measures
 
 •	Estimated the Black implied volatility of the swaption with strike being today’s swap-rate using simulation method
