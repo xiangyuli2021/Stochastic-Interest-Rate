@@ -6,4 +6,4 @@ Valuing Interest Rate Derivatives under Stochastic Interest Rate Model
 
 •	Estimated the price of a bond option for a collection of strike price using Monte Carlo simulations and analytical expression under both the risk-neutral and forward-neutral measures
 
-•	Estimated the Black implied volatility of the swaption with strike being today’s swap-rate using simulation method
+•	Estimated the Black implied volatility of the swaption in the lognormal swap rate model with strike being today’s swap-rate
